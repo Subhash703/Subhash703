@@ -4,9 +4,9 @@
 
 
 - 🔭 I’m currently working on ... ReactJs
-- 🌱 I’m currently learning ... ReactJS & Android App Development
+- 🌱 I’m currently learning ... ReactJS & Android App Development & Flutter
 - 👯 I’m looking to collaborate on ... Reactjs
-- 🤔 I’m looking for help with ... 
+- 🤔 I’m looking for help with ... Getting some real life projects
 - 💬 Ask me about ... Desining Website Layouts
 - 📫 How to reach me: ... www.linkedin.com/in/subhashchandralpu
 - 😄 Pronouns: ... He, Him
