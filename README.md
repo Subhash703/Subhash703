@@ -1,9 +1,9 @@
-### I am a 3rd year Computer Science Student. Currently working on my Programming skills.
+### Trying to become a better developer
 
 ![](https://cdn.pixabay.com/photo/2018/03/02/15/05/office-3193372_960_720.jpg)
 
 
-- 🔭 I’m currently working on ... ReactJs
+- 🔭 I’m currently working on ... ReactJs & React Native & Purescript
 - 🌱 I’m currently learning ... ReactJS & Android App Development & Flutter
 - 👯 I’m looking to collaborate on ... Reactjs
 - 🤔 I’m looking for help with ... Getting some real life projects
