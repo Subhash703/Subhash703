@@ -37,10 +37,10 @@ I design and ship **scalable software solutions** across mobile and backend — 
 ```json
 {
   "languages": ["TypeScript", "Kotlin", "Swift", "Java", "JavaScript"],
-  "mobile": ["Android SDK", "iOS SDK", "React Native", "Unity Plugins"],
-  "frontend": ["React", "Next.js", "Tailwind CSS"],
+  "mobile": ["Android", "iOS", "React Native", "Flutter", "Cross Platform Plugins"],
+  "frontend": ["HTML5/CSS","React", "Next.js", "Tailwind CSS"],
   "backend": ["Node.js", "NestJS", "Microservices", "REST APIs"],
-  "infra": ["Docker", "CI/CD", "Gradle", "CocoaPods", "SPM"],
+  "infra": ["Docker", "CI/CD"],
   "architecture": ["System Design", "SDK Architecture", "API Design"]
 }
 ```
