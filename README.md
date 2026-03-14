@@ -119,11 +119,6 @@ I design and ship **scalable software solutions** across mobile and backend — 
 
 ---
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhash703&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb" width="95%" />
-
----
-
 <!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Subhash703/Subhash703/output/github-snake-dark.svg" />
